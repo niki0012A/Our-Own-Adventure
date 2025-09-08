@@ -1,13 +1,19 @@
-# The Haunted Forest
+# Clear the Haunted Forest
 
-The Immortal Fool decides to take the job of clearing the haunted forest. He figures that with his immortality, he can handle any ghosts or monsters. He grabs the contract from the board and heads towards the forest, his squeaky boots echoing in the silent village.
+The notice reads:
 
-The forest is as creepy as described. Trees with twisted branches block out the sun, and mist swirls around his feet. He hears whispers and faint laughter. Suddenly, he trips over a root and falls flat on his face. "Not again," he mutters, getting up.
+> “URGENT: Clear the haunted forest of its spooky inhabitants. Must not be afraid of ghosts, spiders, or sudden, spooky noises. Payment: three gold coins and a lucky charm (probably not lucky).”
 
-He sees three paths ahead: one leading to a dark cave, one to a rusty gate, and one to a glowing pond.
+The Immortal Fool scoffed. "Ghosts? I've died more times than there are ghosts in that forest. This will be simple."
 
-**Which path should he take?**
+He marched towards the forest, his squeaky boots the only sound breaking the village's silence. The moment he stepped under the ancient, gnarled trees, the air turned cold. Eerie whispers swirled around him.
 
-*   [Enter the dark cave](cave.md)
-*   [Go through the rusty gate](gate.md)
-*   [Approach the glowing pond](pond.md)
+"Probably just the wind," he muttered, trying to sound brave. He swung his sword at a floating, white sheet. "Begone, spirit!"
+
+It was not a ghost. It was a lost laundry spirit—a creature made of sentient, angry laundry. The sheet wrapped around his head, a sock stuffed itself in his mouth, and a pair of very tight trousers tripped him. He stumbled backwards, tripped over a root, and fell into a shallow grave that hadn't been there a moment before.
+
+The earth magically shoveled itself over him.
+
+Buried alive. By laundry. Again.
+
+...He’d be back. He always was.
