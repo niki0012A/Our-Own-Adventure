@@ -16,3 +16,4 @@ At last, he arrives in the village square, where a weathered wooden board hangs,
 The Immortal Fool steps closer, eyes scanning the list of opportunities.  
 
 **Which job will he take?**
+[Choice 3: Clear the haunted forest](choice3.md)
