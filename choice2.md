@@ -15,6 +15,10 @@ At last, he reached the top - and there sat the “terrifying beast,” hiccuppi
 The dragon hiccupped again. A fireball bounced off a rock and smacked him right in the face.  
 He tumbled down the hill and landed headfirst in an abandoned outhouse.  
 
-Dead. Again.
+Dead. Again...
 
-...Well, at least until he gets back up.
+A moment later, a bright light once again struck our hero’s eyes. He looked around and realized that he had found himself back at the bottom, at the very beginning of his journey.
+
+“It seems I overestimated my strength. I need a day off...”
+
+- [Stumble back to the village square](intro.md)
