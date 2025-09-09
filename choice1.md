@@ -12,4 +12,5 @@ Suddenly—*BAM!* A massive rooster leaps out of the shadows, taller than the Fo
 
 The Fool swings his sword… misses… and is instantly pecked into oblivion.  
 
-At least the chickens are safe. For now. 
+At least the chickens are safe. For now.
+- [Guard the town’s chicken coop Continues](choice1-continues.md)
