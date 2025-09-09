@@ -17,4 +17,5 @@ The Immortal Fool steps closer, eyes scanning the list of opportunities.
 
 **Which job will he take?**
 
-[Dragon Hunt](./choice2.md)
+- [Herd the royal singing sheep](choice4.md)
+- [Dragon Hunt](./choice2.md)
