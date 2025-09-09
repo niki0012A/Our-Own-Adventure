@@ -11,3 +11,9 @@ He approached the pasture, where sheep with glittering wool were belting out dra
 One particularly ambitious sheep leapt onto his back, singing *Ode to the Moon*. The Fool tumbled, rolled into a mud puddle, and somehow ended up tangled in a fence. The other sheep just stared and continued their chorus.
 
 “Fine,” he muttered, trying to untangle himself. “I’ll be back. Always do.”
+But of course, death and failure never last long for the Immortal Fool.  
+A few moments later, he sneezed out a tuft of glittering wool and stood up again.  
+
+What will he do now?  
+- [Return to the village square](intro.md)  
+- [Chase the sheep into the nearby forest](forest.md)  
