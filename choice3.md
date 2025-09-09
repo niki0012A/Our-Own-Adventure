@@ -16,8 +16,6 @@ The earth magically shoveled itself over him.
 
 Buried alive. By laundry. Again.
 
-Buried alive. By laundry. Again.
-
 The world faded to black, then, as it always did, faded back into a peculiar form of existence. He was neither here nor there, but somewhere in between.
 
 **What is the Immortal Fool's next move?**
